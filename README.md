@@ -1,0 +1,1 @@
+# IS10_LW5_Applying_DAX_Fundamentals-_Power_BI
